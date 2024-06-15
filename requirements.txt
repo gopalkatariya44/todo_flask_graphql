@@ -1,0 +1,12 @@
+Flask==3.0.3
+pydantic-settings==2.3.1
+Flask-GraphQL==2.0.1
+Flask-SQLAlchemy==3.1.1
+python-keycloak==4.1.0
+stripe==9.11.0
+graphenee==2.1.9
+graphene-sqlalchemy==2.1.0
+flask-graphql==2.0.1
+requests==2.32.3
+PyMySQL==1.1.1
+Authlib==1.3.1
